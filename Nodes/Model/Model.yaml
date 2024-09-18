@@ -1,0 +1,17 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- File: MyMotors/MyMotors.yaml
+- Name: MyMotor
+  Id: g=8aa0bc2242367f7f7ba50e0e46f114a6
+  Supertype: BaseObjectType
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: Int32

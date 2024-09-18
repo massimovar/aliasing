@@ -1,0 +1,79 @@
+Name: MyMotors
+Id: g=32f7528a4173429f9978b8f6e8996678
+Type: FolderType
+Children:
+- Name: MyMotor1
+  Id: g=c9c2b97333b3b32dc6ab36271e6f7d58
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: Int32
+- Name: MyMotor2
+  Id: g=0ca2fc688db0f6e7ac3a58225f178dab
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: Int32
+- Name: MyMotor3
+  Id: g=a101a744c6fd533ea054329affe3ea26
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: Int32
+- Name: MyMotor4
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: Int32
+- Name: MyMotor5
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: Int32
+- Name: MyMotor6
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: Int32
